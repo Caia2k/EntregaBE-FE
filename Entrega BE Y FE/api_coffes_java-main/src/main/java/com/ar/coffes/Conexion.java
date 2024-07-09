@@ -17,7 +17,7 @@ public class Conexion {
             this.connection = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/coffecaia",  // URL de conexión JDBC para MySQL
                 "root",  // Nombre de usuario de la base de datos (cambia según tu configuración)
-                "chacha01"  // Contraseña de la base de datos (cambia según tu configuración)
+                " "  // Contraseña de la base de datos (cambia según tu configuración)
             );
         } catch (ClassNotFoundException e) {
             e.printStackTrace();  // Imprimir el error en caso de no encontrar el driver
