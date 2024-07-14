@@ -82,7 +82,7 @@
      
     </plugins>
     <!-- Cambio el nombre del archivo war generado -->
-    <!--url:http://localhost:8080/apisimplecafe/Cafes--> 
+    <!--url:http://localhost:8080/apisimplecafe/cafes--> 
     <finalName>apisimplecafe</finalName>
   </build>
 </project>
