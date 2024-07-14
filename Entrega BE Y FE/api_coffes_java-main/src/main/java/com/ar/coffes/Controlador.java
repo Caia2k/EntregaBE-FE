@@ -13,7 +13,7 @@ import java.util.ArrayList; // Importación de ArrayList para manejar listas din
 import java.util.List; // Importación de List para manejar colecciones de elementos
 
 // Clase Controlador: Maneja las peticiones HTTP para insertar y recuperar registros.
-@WebServlet("/Cafes") // Anotación que mapea este servlet a la URL "/coffes"
+@WebServlet("/cafes") // Anotación que mapea este servlet a la URL "/coffes"
 public class Controlador extends HttpServlet { // Declaración de la clase Controlador que extiende HttpServlet
  
     // Método POST para insertar 
