@@ -92,7 +92,7 @@
 
   /**********************************/
  
- let url_data = "http://localhost:8080/apisimplecafe/Cafes";
+ let url_data = "http://localhost:8080/apisimplecafe/cafes";
  
  function validateForm(form)
  {
